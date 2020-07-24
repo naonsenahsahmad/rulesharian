@@ -7,3 +7,4 @@ Rencana sepeda Fixie
 - Membeli Saddel
 - membeli crank
 - membeli cog
+- Sidebar top
