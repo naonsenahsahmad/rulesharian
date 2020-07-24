@@ -1,8 +1,10 @@
 Rencana sepeda Fixie
 - Membeli Frame
   * memberi warna frame
-    # hitam
+    # gray
 - Memebeli Fork
 - Membeli WhileSheet
 - Membeli Saddel
+- membeli crank
+- membeli cog
 - Sidebar top
